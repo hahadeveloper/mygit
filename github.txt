@@ -1,4 +1,9 @@
 this is first fix;
 this is second fix;
 this is three fix;
+<<<<<<< HEAD
 this is seven fix;
+=======
+this is four fix;
+this is six fix;
+>>>>>>> dev
